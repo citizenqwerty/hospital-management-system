@@ -1,2 +1,2 @@
-# hsopital-management-system
+# hospital-management-system
 WEB PROGRAMMING PROJECT
