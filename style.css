@@ -600,7 +600,7 @@ section:nth-child(even) {
 
 
 /* Media Queries */
-/* @media (max-width: 991px) {
+@media (max-width: 991px) {
     html {
         font-size: 55%;
     }
@@ -701,4 +701,4 @@ section:nth-child(even) {
     .footer .box-container .box a {
         font-size: 1.4rem;
     }
-} */
+}
